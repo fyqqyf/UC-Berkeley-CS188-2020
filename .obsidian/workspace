@@ -1,0 +1,82 @@
+{
+  "main": {
+    "id": "e50b9fcab1d66a58",
+    "type": "split",
+    "children": [
+      {
+        "id": "43df5e2ae82d2bf4",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "readme.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "391ef9757b934ddc",
+    "type": "split",
+    "children": [
+      {
+        "id": "09549308b870ff9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ab68d749768250c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a2ab6f5a7dae356b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a3a3edc9663cf165",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa17d5dc209ea5b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b8d6fe1166b54da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "readme.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "readme.md",
+    "project1_search/image-20200927134143624.png"
+  ]
+}
